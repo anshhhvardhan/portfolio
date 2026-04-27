@@ -15,43 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Intern (Front-End Developer)</h4>
+                <h5>Alobha Technologies, Noida, Uttar Pradesh</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>06/2024 - 07/2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed a responsive inventory dashboard adapting across mobile, tablet, and desktop. Collaborated with stakeholders to gather UI/UX requirements and implemented modular, maintainable front-end components following SDLC principles and Agile practices.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Logistics Trainee (Data &amp; Systems)</h4>
+                <h5>Committed Cargo Care Ltd, Mahipalpur, New Delhi</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>08/2025 - 12/2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Extracted, analyzed, and validated logistics data using MS SQL Server and Excel. Prepared customs documentation via EDI systems (ICEGATE), ensuring compliance. Identified data gaps, recommended process improvements, and executed data migration tasks maintaining data integrity.
             </p>
           </div>
         </div>

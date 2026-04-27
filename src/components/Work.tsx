@@ -53,23 +53,38 @@ const Work = () => {
           My <span>Work</span>
         </h2>
         <div className="work-flex">
-          {[...Array(6)].map((_value, index) => (
-            <div className="work-box" key={index}>
+            <div className="work-box">
               <div className="work-info">
                 <div className="work-title">
-                  <h3>0{index + 1}</h3>
-
+                  <h3>01</h3>
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <a href="https://github.com/anshhhvardhan/ADOPET" target="_blank" style={{textDecoration: 'none', color: 'inherit'}}>
+                      <h4>AdoPet</h4>
+                    </a>
+                    <p>React Native Mobile App | API Integration &amp; Real-Time Data</p>
                   </div>
                 </div>
                 <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <p>React Native, Firebase Firestore, Google Maps API, Clerk, Expo, Firebase Cloud Messaging</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image="/images/adopet-showcase.png" alt="AdoPet - Pet Adoption Mobile App" link="https://github.com/anshhhvardhan/ADOPET" />
             </div>
-          ))}
+            <div className="work-box">
+              <div className="work-info">
+                <div className="work-title">
+                  <h3>02</h3>
+                  <div>
+                    <a href="https://github.com/anshhhvardhan/newipl" target="_blank" style={{textDecoration: 'none', color: 'inherit'}}>
+                      <h4>CricSight Analytics Dashboard</h4>
+                    </a>
+                    <p>AI-Powered IPL Prediction &amp; BI Platform</p>
+                  </div>
+                </div>
+                <h4>Tools and features</h4>
+                <p>Python, Streamlit, Scikit-learn, SQL, Power BI, Pandas, NumPy, Matplotlib</p>
+              </div>
+              <WorkImage image="/images/ipl-dashboard.png" alt="CricSight Analytics Dashboard" link="https://github.com/anshhhvardhan/newipl" />
+            </div>
         </div>
       </div>
     </div>

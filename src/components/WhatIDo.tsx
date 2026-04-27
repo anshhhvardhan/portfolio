@@ -88,23 +88,22 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Development & Data Analytics</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Building responsive web and mobile apps with modern JavaScript frameworks. Experienced with data querying, analysis, REST APIs, ETL workflows, and real-time database solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">JavaScript (ES6+)</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">MySQL</div>
+                <div className="what-tags">MS SQL Server</div>
+                <div className="what-tags">React Native</div>
+                <div className="what-tags">Firebase</div>
+                <div className="what-tags">Streamlit</div>
+                <div className="what-tags">HTML5</div>
+                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Git / GitHub</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +127,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>ENTERPRISE</h3>
+              <h4>Tools, Reporting & Methodologies</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Proficient in data visualization, enterprise cloud tools, compliance platforms, and SDLC methodologies. Skilled with requirements gathering, documentation, and systems integration.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Excel (Advanced)</div>
+                <div className="what-tags">ICEGATE</div>
+                <div className="what-tags">EDI Systems</div>
+                <div className="what-tags">Agile / SDLC</div>
+                <div className="what-tags">System Design</div>
+                <div className="what-tags">OOP / DSA</div>
+                <div className="what-tags">Google Maps API</div>
+                <div className="what-tags">MS Office Suite</div>
               </div>
               <div className="what-arrow"></div>
             </div>
